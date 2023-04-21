@@ -9,6 +9,7 @@ public class MoveBridgeState : IState
     {
 
     }
+
     // Đi lên cầu đến khi hết gạch
     public void OnExecute(Enemy enemy)
     {
